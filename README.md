@@ -1,8 +1,41 @@
 # Rj48-Microservice-transaction
 
+--------------------------------------------------------------------------
+پترن های استفاده شده در میکرو سرویس#
+(مواردی که روی آنها خط کشیده شده در حال انجام است)
+
+Decomposition Patterns      -   الگوهای تجزیه
+•	Decompose by Business Capability -  تجزیه بر اساس قابلیت تجاری  - ()
+•	Decompose by Subdomain  -  تجزیه بر اساس ساب دامنه – ()
+
+Integration Patterns - الگوهای یکپارچه سازی
+•	API Gateway Pattern -  الگوی دروازه API
+•	Aggregator Pattern -   الگوی جمع کننده
+•	Client-Side UI Composition Pattern -  الگوی ترکیب UI سمت کلاینت
+
+Database Patterns - الگوهای پایگاه داده
+•	Database per Service - پایگاه داده در هر سرویس
+•	Shared Database per Service - پایگاه داده مشترک در هر سرویس 
+•	Command Query Responsibility Segregation (CQRS) -  تفکیک مسئولیت پرس و جو فرمان (CQRS) –()
+•	Saga Pattern - الگوی حماسه 
+
+Observability Patterns - الگوهای مشاهده پذیری
+•	Log Aggregation -تجمیع ورود به سیستم 
+•	Performance Metrics -  معیارهای عملکرد
+•	Distributed Tracing - ردیابی توزیع شده 
+•	Health Check - بررسی سلامت 
+
+Cross-Cutting Concern Patterns - الگوهای نگرانی متقابل
+•	External Configuration -  پیکربندی خارجی
+•	Service Discovery Pattern -  الگوی کشف خدمات
+•	Circuit Breaker Pattern - الگوی مدار شکن
+•	Blue-Green Deployment Pattern -  الگوی استقرار آبی-سبز
+
+----------------------------------------------------------------------------------------------------------------
+
 
 نمونه کد برای نقش Back - End
-# ماشین حساب مالیات ترافیک
+# عنوان مسائله: ماشین حساب مالیات ترافیک
 
 ## سناریو
 
