@@ -48,9 +48,9 @@
 <br>
 زبان میزبان : C#
 <br>
-بانک اطلاعاتی : Sql Server 2022
+**DataBase - بانک اطلاعاتی** : Sql Server 2022
 <br>
-واسط های بانک اطلاعاتی : ٍMicrosoft.EntityFrameworkCore 7.0.12
+**ORM - واسط های بانک اطلاعاتی** : Microsoft.EntityFrameworkCore 7.0.12
 <br>
 و 1.7.0  DapperExtensions
 <br>
