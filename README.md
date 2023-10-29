@@ -57,11 +57,11 @@
 (هر دو استفاده شدن بصورت هیبریدی)
 <br>
 
-ApiGetWays (تجمیع مسیر):Ocelot 20.0.0 <br>
-Api.Aggregator : Client Service <br>
-Event.Bus : <br>
+**ApiGetWays** (تجمیع مسیر):Ocelot 20.0.0 <br>
+**Api.Aggregator** : Client Service <br>
+**Event.Bus** : <br>
 RabbitMQ  <br>
-Publisher  Client => MassTransit 8.1.1 <br>
+Publisher And Receiver Client => MassTransit 8.1.1 <br>
 MassTransit.AspNetCore 7.3.1 <br>
 MassTransit.RabbitMQ 8.1.1 <br>
 
@@ -70,10 +70,10 @@ MassTransit.RabbitMQ 8.1.1 <br>
  
 ## معماری کد :  
 
-Model Data <br>
+**Model Data** <br>
  TaxCar.Combinedstation.Core <br>
 <br>
-Model Domain
+**Model Domain**
 <br>
 CarTax.Area.Domain <br>
 CarTax.Car.Domain <br>
