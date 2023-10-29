@@ -45,10 +45,10 @@
 
 
 ## نرم افزارها و پکیج های استفاده شده:
-<br>
-زبان میزبان : C#
-<br>
-**DataBase - بانک اطلاعاتی** : Sql Server 2022
+
+<br>**Language - زبان میزبان** : C#
+
+<br>**DataBase - بانک اطلاعاتی** : Sql Server 2022
 <br>
 **ORM - واسط های بانک اطلاعاتی** : Microsoft.EntityFrameworkCore 7.0.12
 <br>
