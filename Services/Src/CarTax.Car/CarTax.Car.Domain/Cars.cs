@@ -12,6 +12,7 @@ namespace CarTax.Car.Domain
     public class Cars : AggregateRoot<CarId>
     {
 
+
         #region  Constructor
 
         private Cars(CarId? id) : base(id)
