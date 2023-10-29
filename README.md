@@ -10,7 +10,7 @@
 
 **Decomposition Patterns      -   الگوهای تجزیه**
  <br>
-•	Decompose by Business Capability -  تجزیه بر اساس قابلیت تجاری   <br>
+•	Decompose by Business Capability -  تجزیه بر اساس قابلیت تجاری (~~Feature~~ - Transaction)  <br>
 ~~•	Decompose by Subdomain  -  تجزیه بر اساس ساب دامنه~~  <br>
 
 **Integration Patterns - الگوهای یکپارچه سازی**
