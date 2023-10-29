@@ -57,7 +57,7 @@ MassTransit.AspNetCore 7.3.1
 MassTransit.RabbitMQ 8.1.1
 
 ## معماری ساختار -  Clean Architecture
-
+![Clean Architecture](https://i.postimg.cc/qMfzSqBd/Clean-Architecture-NET-Core.jpg)
  
 ## معماری کد :  
 
