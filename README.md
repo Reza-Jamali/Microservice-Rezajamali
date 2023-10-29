@@ -73,7 +73,7 @@ MassTransit.RabbitMQ 8.1.1 <br>
 **Model Data** <br>
  TaxCar.Combinedstation.Core <br>
 <br>
-**Model Domain**
+**Model Domain - DDD**
 <br>
 CarTax.Area.Domain <br>
 CarTax.Car.Domain <br>
@@ -83,30 +83,32 @@ CarTax.Tax.Domain <br>
 CarTax.CarType.Domain <br>
 CarTax.Taxfreecar.Domain <br>
 
+<br><br>
 
+**• DDD (Domain-Driven Design) - تاکتیکال مورد استفاده + پترن ها** <br>
+	
 
-DDD (Domain-Driven Design) 
-•	تاکتیکال مورد استفاده + پترن ها
+Ubiquitous Language - اصل همگانی زبان مشترک<br>
+Bounded Context - تقسیم دامنه<br>
+Context Mapping - اصل هماهنگی<br>
+Aggregates - تجمیع <br>
+Entities - موجودیت<br>
+Value Objects – شی ارزش<br>
+Events - رویدادها<br>
+Domain Service– سرویس دامنه<br>
+Repository – مخزن داده<br>
+Policies – قوانین <br>
+Version Control – کنترل ورژن<br>
+Factory Class  - کارخانه سازنده<br>
+Factory Method – کارخانه متد<br>
+SnapShoot – عکس فوری<br>
+Micro pattern – میکرو پترن ها<br>
+private Setter – تغییر پذیر<br>
+Behavior Modeling – مدل رفتار<br>
+Complexity - داده های پیچیده <br>
+Strategic Design - الگوی تفکر استراتژیک <br>
 
-Ubiquitous Language - اصل همگانی زبان مشترک
-Bounded Context - تقسیم دامنه
-Context Mapping - اصل هماهنگی
-Aggregates - تجمیع 
-Entities - موجودیت
-Value Objects – شی ارزش
-Events - رویدادها
-Domain Service– سرویس دامنه
-Repository – مخزن داده
-Policies – قوانین 
-Version Control – کنترل ورژن
-Factory Class  - کارخانه سازنده
-Factory Method – کارخانه متد
-SnapShoot – عکس فوری
-Micro pattern – میکرو پترن ها
-private Setter – تغییر پذیر
-Behavior Modeling – مدل رفتار
-Complexity 
-Strategic Design - الگوی تفکر استراتژیک
+<br>
 
 ----------------------------------------------------------------------------------------------------------------
 
