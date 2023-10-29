@@ -38,6 +38,42 @@
 •	Service Discovery Pattern -  الگوی کشف خدمات  <br>
 ~~•	Circuit Breaker Pattern - الگوی مدار شکن~~  <br>
 ~~•	Blue-Green Deployment Pattern -  الگوی استقرار آبی-سبز~~  <br>
+--------------------------------------------------------------------------------------------------------------
+
+
+نرم افزارها و پکیج های استفاده شده:
+زبان میزبان : C#
+بانک اطلاعاتی : Sql Server 2022
+واسط های بانک اطلاعاتی : ٍMicrosoft.EntityFrameworkCore 7.0.12
+و 1.7.0  DapperExtensions
+(هر دو استفاده شدن بصورت هیبریدی)
+
+ApiGetWays (تجمیع مسیر):Ocelot 20.0.0 
+Api.Aggregator : Client Service
+Event.Bus : 
+RabbitMQ 
+Publisher  Client => MassTransit 8.1.1
+MassTransit.AspNetCore 7.3.1
+MassTransit.RabbitMQ 8.1.1
+
+معماری ساختار -  Clean Architecture
+
+ 
+معماری کد :  
+
+Model Data 
+ TaxCar.Combinedstation.Core
+
+Model Domain
+
+CarTax.Area.Domain
+CarTax.Car.Domain
+CarTax.City.Domain
+TaxCar.Publicholidays.Domain
+CarTax.Tax.Domain
+CarTax.CarType.Domain
+CarTax.Taxfreecar.Domain
+
 
 
 ----------------------------------------------------------------------------------------------------------------
