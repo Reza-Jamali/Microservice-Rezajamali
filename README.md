@@ -1,5 +1,7 @@
 # Rj48-Microservice-transaction
 
+
+نمونه کد برای نقش Back - End
 --------------------------------------------------------------------------
 پترن های استفاده شده در میکرو سرویس#
 (مواردی که روی آنها خط کشیده شده در حال انجام است)
@@ -22,19 +24,18 @@ Database Patterns - الگوهای پایگاه داده
 Observability Patterns - الگوهای مشاهده پذیری
 •	Log Aggregation -تجمیع ورود به سیستم 
 •	Performance Metrics -  معیارهای عملکرد
-•	Distributed Tracing - ردیابی توزیع شده 
-•	Health Check - بررسی سلامت 
+~~•	Distributed Tracing - ردیابی توزیع شده~~
+~~•	Health Check - بررسی سلامت~~
 
 Cross-Cutting Concern Patterns - الگوهای نگرانی متقابل
 •	External Configuration -  پیکربندی خارجی
 •	Service Discovery Pattern -  الگوی کشف خدمات
-•	Circuit Breaker Pattern - الگوی مدار شکن
-•	Blue-Green Deployment Pattern -  الگوی استقرار آبی-سبز
+~~•	Circuit Breaker Pattern - الگوی مدار شکن~~
+~~•	Blue-Green Deployment Pattern -  الگوی استقرار آبی-سبز~~
 
 ----------------------------------------------------------------------------------------------------------------
 
 
-نمونه کد برای نقش Back - End
 # عنوان مسائله: ماشین حساب مالیات ترافیک
 
 ## سناریو
