@@ -85,6 +85,29 @@ CarTax.Taxfreecar.Domain <br>
 
 
 
+DDD (Domain-Driven Design) 
+•	تاکتیکال مورد استفاده + پترن ها
+
+Ubiquitous Language - اصل همگانی زبان مشترک
+Bounded Context - تقسیم دامنه
+Context Mapping - اصل هماهنگی
+Aggregates - تجمیع 
+Entities - موجودیت
+Value Objects – شی ارزش
+Events - رویدادها
+Domain Service– سرویس دامنه
+Repository – مخزن داده
+Policies – قوانین 
+Version Control – کنترل ورژن
+Factory Class  - کارخانه سازنده
+Factory Method – کارخانه متد
+SnapShoot – عکس فوری
+Micro pattern – میکرو پترن ها
+private Setter – تغییر پذیر
+Behavior Modeling – مدل رفتار
+Complexity 
+Strategic Design - الگوی تفکر استراتژیک
+
 ----------------------------------------------------------------------------------------------------------------
 
 
