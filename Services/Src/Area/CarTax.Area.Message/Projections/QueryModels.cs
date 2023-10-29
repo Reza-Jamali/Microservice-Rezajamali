@@ -3,7 +3,7 @@ using System;
 namespace CarTax.Area.Message.Projections
 
 {
-    public static class QueryModels
+    public  class QueryModels
     {
 
         public class GetPageing

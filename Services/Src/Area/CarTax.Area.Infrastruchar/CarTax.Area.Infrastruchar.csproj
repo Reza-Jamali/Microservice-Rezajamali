@@ -16,8 +16,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\CarTax.Area.Domain\CarTax.Area.Domain.csproj" />
+    <ProjectReference Include="..\..\..\..\Libraries\Libraries_Helper\Libraries_Helper.csproj" />
     <ProjectReference Include="..\..\..\..\Libraries\Library_Dapper\Library_Dapper.csproj" />
     <ProjectReference Include="..\..\..\..\Libraries\Library_EF\Library_EF.csproj" />
+    <ProjectReference Include="..\CarTax.Area.Domain\CarTax.Area.Domain.csproj" />
+    <ProjectReference Include="..\CarTax.Area.Message\CarTax.Area.Message.csproj" />
   </ItemGroup>
 
 </Project>

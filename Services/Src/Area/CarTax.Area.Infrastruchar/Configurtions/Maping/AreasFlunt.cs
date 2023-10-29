@@ -1,18 +1,10 @@
 ﻿
 
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Migrations;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NPOI.OpenXmlFormats.Dml.Diagram;
+
 using CarTax.Area.Domain.ValueObjects;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System.Reflection.Emit;
 using CarTax.Area.Domain;
-using CarTax.Area.Domain.Entity;
 using CarTax.Area.Domain.ValueObject;
 
 namespace CarTax.Area.Infrastruchar.Configurtions.Maping

@@ -16,6 +16,7 @@
     <ProjectReference Include="..\..\..\..\CarTax.Car.Message\CarTax.Car.Message.csproj" />
     <ProjectReference Include="..\..\..\..\Libraries\Library_API\Library_API.csproj" />
     <ProjectReference Include="..\..\..\..\Libraries\Library_EF\Library_EF.csproj" />
+    <ProjectReference Include="..\CarTax.Car.Message\CarTax.Car.Message.csproj" />
     <ProjectReference Include="..\CarTax.Infrastruchar\CarTax.Car.Infrastruchar.csproj" />
   </ItemGroup>
 

@@ -14,6 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\..\Libraries\Library_API\Library_API.csproj" />
     <ProjectReference Include="..\..\CarTax.Area.Application\CarTax.Area.Application.csproj" />
+    <ProjectReference Include="..\..\CarTax.Area.Message\CarTax.Area.Message.csproj" />
   </ItemGroup>
 
 </Project>

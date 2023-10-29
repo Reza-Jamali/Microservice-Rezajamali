@@ -1,11 +1,10 @@
-using System;
+
 using System.Data;
-using System.Data.Common;
-using System.Threading.Tasks;
+
 using CarTax.Area.Message;
 using CarTax.Area.Message.Projections;
 using Library_API;
-using Library_Dapper;
+
 using Microsoft.AspNetCore.Mvc;
 using Serilog;
 

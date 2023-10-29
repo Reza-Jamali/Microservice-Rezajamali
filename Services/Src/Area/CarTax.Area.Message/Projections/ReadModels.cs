@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace CarTax.Area.Message.Projections
 
 {
-    public static class ReadModels
+    public  class ReadModels
     {
         public static class V1
         {
