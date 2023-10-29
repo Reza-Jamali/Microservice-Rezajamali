@@ -6,7 +6,8 @@
 پترن های استفاده شده در میکرو سرویس#
 (مواردی که روی آنها خط کشیده شده در حال انجام است)
 
-Decomposition Patterns      -   الگوهای تجزیه
+Decomposition Patterns      -   الگوهای تجزیه 
+ <br>
 •	Decompose by Business Capability -  تجزیه بر اساس قابلیت تجاری  - ()
 •	Decompose by Subdomain  -  تجزیه بر اساس ساب دامنه – ()
 
