@@ -6,32 +6,33 @@
 ## پترن های استفاده شده در میکرو سرویس
 (مواردی که روی آنها خط کشیده شده در حال انجام است)
 
-### Decomposition Patterns      -   الگوهای تجزیه 
+**Decomposition Patterns      -   الگوهای تجزیه**
  <br>
 •	Decompose by Business Capability -  تجزیه بر اساس قابلیت تجاری   <br>
 ~~•	Decompose by Subdomain  -  تجزیه بر اساس ساب دامنه~~  <br>
 
-### Integration Patterns - الگوهای یکپارچه سازی  
+**Integration Patterns - الگوهای یکپارچه سازی**
 <br>
 •	API Gateway Pattern -  الگوی دروازه API  <br>
 •	Aggregator Pattern -   الگوی جمع کننده  <br>
 •	Client-Side UI Composition Pattern -  الگوی ترکیب UI سمت کلاینت  <br>
 
-### Database Patterns - الگوهای پایگاه داده 
+ **Database Patterns - الگوهای پایگاه داده**
  <br>
 •	Database per Service - پایگاه داده در هر سرویس  <br>
 •	Shared Database per Service - پایگاه داده مشترک در هر سرویس  <br>
-•	Command Query Responsibility Segregation (CQRS) -  تفکیک مسئولیت پرس و جو فرمان (CQRS) – ~~(Event Sourcing)~~  <br>
+•	Command Query Responsibility Segregation (CQRS) -  تفکیک مسئولیت پرس و جو فرمان (CQRS) – ~~(Event Sourcing)~~
+<br>
 •	Saga Pattern - الگوی حماسه  <br>
 
-### Observability Patterns - الگوهای مشاهده پذیری
+ **Observability Patterns - الگوهای مشاهده پذیری**
  <br>
 •	Log Aggregation -تجمیع ورود به سیستم   <br>
 •	Performance Metrics -  معیارهای عملکرد  <br>
 ~~•	Distributed Tracing - ردیابی توزیع شده~~  <br>
 ~~•	Health Check - بررسی سلامت~~  <br>
 
-### Cross-Cutting Concern Patterns - الگوهای نگرانی متقابل
+ **Cross-Cutting Concern Patterns - الگوهای نگرانی متقابل**
  <br>
 •	External Configuration -  پیکربندی خارجی  <br>
 •	Service Discovery Pattern -  الگوی کشف خدمات  <br>
